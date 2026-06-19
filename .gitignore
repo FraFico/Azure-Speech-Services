@@ -1,0 +1,29 @@
+# Environment variables – never commit real credentials
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Audio output files
+*.wav
+
+# IDE
+.vscode/
+.idea/
